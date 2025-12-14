@@ -438,40 +438,18 @@ Co-authored-by: Cursor AI <ai@cursor.sh>
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/026c33d5-67ff-454d-97cd-2d5ff58cd7dc" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9d40c42a-3d87-4778-98a1-4b802a9dc349" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7d0f534e-9d9b-4d14-bad8-577379d4778b" />
+
+
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f7b50795-6d05-45b8-9a1c-b22bfd80606c" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2f11e920-ea81-4fee-a312-c843fffdc9d3" />
 
-### Admin Panel
-![Admin Panel](screenshots/admin.png)
 
-*Note: Screenshots should be added to the `screenshots/` directory*
 
-## 🚢 Deployment
-
-### Backend Deployment
-
-The backend can be deployed to:
-- **Heroku**: Easy deployment with PostgreSQL addon
-- **AWS**: EC2 or Elastic Beanstalk
-- **Railway**: Simple deployment with database support
-- **DigitalOcean**: App Platform
-
-### Frontend Deployment
-
-The frontend can be deployed to:
-- **Vercel**: Recommended for React apps
-- **Netlify**: Easy static site hosting
-- **AWS S3 + CloudFront**: Scalable static hosting
-
-### Environment Variables for Production
-
-Make sure to set secure environment variables:
-- Use a strong `JWT_SECRET`
-- Set `NODE_ENV=production`
-- Configure production database URL
-- Update frontend API URL to point to production backend
 
 ## 📝 License
 
