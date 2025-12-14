@@ -479,8 +479,7 @@ This project is created for educational purposes as part of the AI Kata challeng
 
 ## 👤 Author
 
-[Your Name]
-
+Subrat Shakya
 ## 🙏 Acknowledgments
 
 - Incubyte for providing the kata challenge
